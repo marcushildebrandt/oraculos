@@ -4,6 +4,8 @@
 
 ### Ações
 
+Use essa tabela para ter ideias junto com  tabela de tema e elementos de cena.
+
 1 planejar | 21 sair | 41 rejeitar | 61 capturar | 81 defender
 2 chocar | 22 preservar | 42 exigir | 62 sobrecarregar | 82 debater
 3 enfraquecer | 23 manipular | 43 explorar | 63 desafiar | 83 auxiliar
@@ -24,3 +26,6 @@
 18 desviar | 38 compartilhar |  58 impressionar | 78 chegar | 98 procurar
 19 ameaçar | 39 destruir | 59 tomar | 79 afetar | 99 carregar
 20 atacar | 40 evitar | 60 opor-se | 80 alterar | 100 convocar
+
+### Tema
+
