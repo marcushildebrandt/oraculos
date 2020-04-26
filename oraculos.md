@@ -32,3 +32,28 @@ Use essa tabela para ter ideias junto com  tabela de tema e elementos de cena.
 
 ### Tema
 
+Use essa tabela para ter ideias junto com a tabela de ação e de elementos.
+
+1-20 | 21-40 | 41-60 | 61-80 | 81-100
+-----|-----|-----|-----|-----
+1 risco | 21 labor | 41 fardo | 61 ganância | 81 comunhão
+2 habilidade | 22 solução | 42 vingança | 62 família | 82 inimigo
+3 preço | 23 ferramenta | 43 oportunidade | 63 recurso | 83 religião
+4 aliado | 24 equilíbrio | 44 facção | 64 estrutura | 84 espírito
+5 batalha | 25 amor | 45 perigo | 65 sonho | 85 fama
+6 segurança | 26 barreira | 46 corrupção | 66 comunidade | 86 desolação
+7 sobrevivência | 27 criação | 47 liberdade | 67 guerra | 87 força
+8 arma | 28 decadência | 48 dívida | 68 fenômeno | 88 conhecimento
+9 ferimento | 29 comércio | 49 ódio | 69 prêmio | 89 verdade
+10 abrigo | 30 vínculo | 50 posse | 70 destino | 90 busca
+11 líder | 31 esperança | 51 desconhecido | 71 sorte | 91 orgulho
+12 medo | 32 superstição | 52 passagem | 72 poder | 92 perda
+13 tempo | 33 paz | 53 terra | 73 memória | 93 lei
+14 dever | 34 decepção | 54 criatura | 74 ruína | 94 caminho
+15 segredo | 35 história | 55 doença | 75 magia | 95 aviso
+16 inocência | 36 mundo | 56 vantagem | 76 rival | 96 relação
+17 renome | 37 voto | 57 sangue | 77 problema | 97 riqueza
+18 direção | 38 proteção | 58 linguagem | 78 ideia | 98 lar
+19 morte | 29 natureza | 59 rumor | 79 retaliação | 99 estratégia
+20 honra | 40 opinião | 60 fraqueza | 80 saúde | 100 suprimento
+
