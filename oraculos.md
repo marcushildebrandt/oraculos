@@ -7,6 +7,8 @@
 Use essa tabela para ter ideias junto com  tabela de tema e elementos de cena.
 
 
+1-20 | 21-40 | 41-60 | 61-80 | 81-100
+-----|-----|-----|-----|-----
 1 planejar | 21 sair | 41 rejeitar | 61 capturar | 81 defender
 2 chocar | 22 preservar | 42 exigir | 62 sobrecarregar | 82 debater
 3 enfraquecer | 23 manipular | 43 explorar | 63 desafiar | 83 auxiliar
