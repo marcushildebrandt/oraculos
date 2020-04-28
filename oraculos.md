@@ -185,7 +185,8 @@ d10 | 1-3 | 4-6 | 7-9
 
 ##### Raças de shadow of the demonlord
 
-d10 | raça | d10 | raça | 1-4 | goblin
+d10 | raça | d10 | raça
+-----|-----|-----|-----
 1-5 | humano | 1-4 | goblin
 6-7 | orc | 5-8 | anão
 8-9 | altómato | 9-10 | changeling - role a raça aparente
@@ -202,3 +203,12 @@ d10 | idade
 9 | meia idade 40-60
 10 | idoso 60+
 
+#### Corpo
+
+d10 | altura | físico | aparência
+-----|-----|-----|-----
+1 | muito baixo | muito magro | doente
+2-3 | baixo | magro | fora de forma
+4-7 | mediano | mediano | mediano
+8-9 | alto | acima do peso | atlético
+10 | muito alto | obeso | em ótima forma/musculoso
