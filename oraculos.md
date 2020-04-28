@@ -223,10 +223,26 @@ d10 | tamanho do cabelo | tipo de cabelo
 9-10 | longo | duro
 
 d10 | cor do cabelo | cor dos olhos
+-----|-----|-----
 1 | branco | azul
 2-3 | loiro | amêndoa
 4-5 | castanho | preto
 6-7 | preto | castanho
 8-9 | ruivo | verde
 10 | colorido | colorido
+
+#### característica física
+
+d10 | característica
+-----|-----
+1 | rosto
+2 | olhos
+3 | nariz
+4 | boca
+5 | orelha
+6 | sombrancelha/cabelo
+7 | mão
+8 | pé
+9 | cicatris/tatuagem
+10 | voz
 
