@@ -144,6 +144,7 @@ d100 | reviravolta
 ### Características de personalidade
 
 d20 | positiva | negativa
+-----|-----|-----
 1 | animado | antipático
 2 | benevolente | arrogante
 3 | bondoso | briguento
@@ -166,6 +167,7 @@ d20 | positiva | negativa
 20 | responsável | vulgar
 
 d10 | 1-3 | 4-6 | 7-9
+-----|-----|-----|-----
 1 | alegre | sínico | temperamental
 2 | desonesto | indiferente | infantil
 3 | violento | simpático | vaidoso
