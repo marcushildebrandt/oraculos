@@ -115,4 +115,26 @@ Use esse oráculo para ter ideias e adicionar elementos na sua cena.
 
 ### Reviravoltas d100
 
+d100 | reviravolta
+1-5 | Foi tudo uma diversão.
+6-10 | Um segredo sombrio é revelado.
+11-15 | Uma armadilha é suspensa.
+16-20 | Uma suposição é revelada como falsa.
+21-25 | Uma aliança secreta é revelada.
+26-30 | Suas ações beneficiam um inimigo.
+31-35 | Alguém retorna inesperadamente.
+36-40 | Um inimigo mais perigoso é revelado.
+41-45 | Você e um inimigo compartilham um objetivo comum.
+46-50 | Uma identidade verdadeira é revelada.
+51-55 | Você é traído por alguém que era confiável.
+56-60 | Você está muito atrasado.
+61-65 | O verdadeiro inimigo é revelado.
+66-70 | O inimigo ganha novos aliados.
+71-75 | Um novo perigo aparece.
+76-80 | Alguém ou algo está faltando.
+81-85 | A verdade de um relacionamento é revelada.
+86-90 | Duas situações aparentemente que não estão relacionadas são mostradas como conectadas.
+91-95 | Poderes ou habilidades inesperadas são revelados.
+96-100 | Role mais duas vezes nesta tabela. Ambos os resultados ocorrem. Se eles forem os mesmos resultados, torne-os mais dramáticos.
+
 ### Missão
