@@ -179,3 +179,26 @@ d10 | 1-3 | 4-6 | 7-9
 9 | ingênuo | espertalhão | pessimista
 10 | idealista | ignorante | otimista
 
+### Aparência
+
+#### Raça
+
+##### Raças de shadow of the demonlord
+
+d10 | raça | d10 | raça | 1-4 | goblin
+1-5 | humano | 1-4 | goblin
+6-7 | orc | 5-8 | anão
+8-9 | altómato | 9-10 | changeling - role a raça aparente
+10 | role na coluna ao lado | x | x
+
+#### Idade
+
+d10 | idade
+-----|-----
+1 | criança 1-12
+2 | adolescente 13-18
+3-5 | jovem 18-22
+6-8 | adulto 22-40
+9 | meia idade 40-60
+10 | idoso 60+
+
