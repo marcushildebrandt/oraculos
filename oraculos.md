@@ -1,11 +1,20 @@
 ﻿# Oráculos
 
+## Sim ou Não
+
+Use essas tabelas para responder perguntas de sim ou não.
+
+### Sim ou Não d6
+
+### Sim ou Não d10
+
+### Sim ou Não d100
+
 ## Trama
 
 ### Ações
 
 Use essa tabela para ter ideias junto com  tabela de tema e elementos de cena.
-
 
 1-20 | 21-40 | 41-60 | 61-80 | 81-100
 -----|-----|-----|-----|-----
@@ -57,3 +66,53 @@ Use essa tabela para ter ideias junto com a tabela de ação e de elementos.
 19 morte | 29 natureza | 59 rumor | 79 retaliação | 99 estratégia
 20 honra | 40 opinião | 60 fraqueza | 80 saúde | 100 suprimento
 
+### Elementos de cena
+
+Use esse oráculo para ter ideias e adicionar elementos na sua cena.
+
+### Pagar o preço
+
+### Reviravoltas 2d6
+
+2d6 | reviravolta
+-----|-----
+11 | identidade enganosa
+12 | alguém que você achou que estava morto não está
+13 | alguém que você achava que estava vivo está morto
+14 | alguém inesperado quer ferir/roubar você
+15 | alguém esperava ferir/roubar o cara errado
+16 | alguém com quem você se importa está inesperadamente no lugar errado na hora errada
+21 | alguém que você pensou que estava te ajudando tem algo mais em mente
+22 | uma pessoa que você achou que conhecia acabou sendo totalmente diferente
+23 | uma nova pessoa aparece inesperadamente para complicar
+24 | uma nova pessoa aparece inesperadamente para facilitar
+25 | uma pessoa em quem você confia repentinamente tem uma mudança de perspectiva
+26 | algo explode (figurativa ou literalmente), mas não uma coisa óbvia
+31 | as autoridades se envolvem ou fazem vista grossa (o que for pior)
+32 | a violência aleatória distrai
+33 | sequestrado (você ou alguém próximo)
+34 | reforsos chegam em um momento oportuno / inoportuno
+35 | disfárce
+36 | armadilha
+41 | farsa / falso
+42 | mentira
+43 | a naturesa de algo que você deu como certo é completamente o oposto
+44 | golpe / fraude
+45 | um superior se torna um subordinado (ou o oposto)
+46 | alguém inesperadamente te dá um ítem misterioso
+51 | algo inesperado derrepente te encontra
+52 | novo adorador / seguidor
+53 | forçado inesperadamente em uma nova responsabilidade
+54 | uma velha responsabilidade desaparece (ou muda)
+55 | seu objetivo imediato está na sua frente
+56 | um suporte que você precisa para o sucesso é levado embora
+61 | um suporte que você precisa para o sucesso é encontrado
+62 | um novo obstáculo inesperado fica no caminho do seu objetivo imediato
+63 | você acorda / chega em um lugar inesperado
+64 | um amigo se torna um inimigo
+65 | um inimigo se torna um amigo
+66 | role duas vezes e combine os resultados
+
+### Reviravoltas d100
+
+### Missão
