@@ -138,3 +138,42 @@ d100 | reviravolta
 96-100 | Role mais duas vezes nesta tabela. Ambos os resultados ocorrem. Se eles forem os mesmos resultados, torne-os mais dramáticos.
 
 ### Missão
+
+## personagens
+
+### Características de personalidade
+
+d20 | positiva | negativa
+1 | animado | antipático
+2 | benevolente | arrogante
+3 | bondoso | briguento
+4 | clemente | covarde
+5 | confiável | desleixado
+6 | corajoso | egocêntrico
+7 | criativo | enganador
+8 | determinado | hostil
+9 | empático | impulsivo
+10 | generoso | indiferente
+11 | honesto | insensível
+12 | honrado | malicioso
+13 | humilde | mesquinho
+14 | idealista | preguiçoso
+15 | indulgente | pretensioso
+16 | justo | ranzinza
+17 | metódico | rude
+18 | nobre | sarcástico
+19 | prestativo | taciturno
+20 | responsável | vulgar
+
+d10 | 1-3 | 4-6 | 7-9
+1 | alegre | sínico | temperamental
+2 | desonesto | indiferente | infantil
+3 | violento | simpático | vaidoso
+4 | sereno | desajeitado | introvertido
+5 | falante | mentiroso | extrovertido
+6 | covarde | protecionista | arrogante
+7 | corajoso | orgulhoso | distraído
+8 | fanático | sedutor | cruel
+9 | ingênuo | espertalhão | pessimista
+10 | idealista | ignorante | otimista
+
