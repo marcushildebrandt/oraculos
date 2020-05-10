@@ -139,6 +139,17 @@ d100 | reviravolta
 
 ### Missão
 
+d8 | ação | pessoa/grupo | coisa | lugar
+-----|-----|-----|-----|-----
+1 | parar/destruir/eliminar | inimigo/rival | objeto/recurso | escondido/perdido
+2 | descobrir/encontrar | amigo/aliado | documento/informação/boato | sobrenatural/mágico
+3 | recuperar/obter/capturar | criatura/monstro/animal | relacionamento/acordo | bem localizado/importante
+4 | proteger/esconder/transportar | grupo ou líder religioso | doença/maldição/praga | inóspito/abandonado
+5 | sobreviver/escapar | grupo ou líder pulítico | religião/ideologia | rico/seguro
+6 | criar/construir/mudar | famoso ou influente | fenómeno natural/sobrenatural/mágico | umilde/desprotegido
+7 | resgatar/libertar | rico ou poderoso | governo/população | famoso/público
+8 | informar/espalhar | fraco ou desconhecido| conflito | privado/de difícil acesso
+
 ## personagens
 
 ### Características de personalidade
@@ -245,4 +256,6 @@ d10 | característica
 8 | pé
 9 | cicatris/tatuagem
 10 | voz
+
+### Estilo de vida, papel ou profissão
 
