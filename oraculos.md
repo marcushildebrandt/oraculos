@@ -203,60 +203,6 @@ d10 | raça | d10 | raça
 8-9 | altómato | 9-10 | changeling - role a raça aparente
 10 | role na coluna ao lado | x | x
 
-#### Idade
-
-d10 | idade
------|-----
-1 | criança 1-12
-2 | adolescente 13-18
-3-5 | jovem 18-22
-6-8 | adulto 22-40
-9 | meia idade 40-60
-10 | idoso 60+
-
-#### Corpo
-
-d10 | altura | físico | aparência
------|-----|-----|-----
-1 | muito baixo | muito magro | doente
-2-3 | baixo | magro | fora de forma
-4-7 | mediano | mediano | mediano
-8-9 | alto | acima do peso | atlético
-10 | muito alto | obeso | em ótima forma/musculoso
-
-#### cabelos e olhos
-
-d10 | tamanho do cabelo | tipo de cabelo
------|-----|-----
-1-2 | careca | liso
-3-5 | curto | cachiado
-6-8 | médio | encaracolado
-9-10 | longo | duro
-
-d10 | cor do cabelo | cor dos olhos
------|-----|-----
-1 | branco | azul
-2-3 | loiro | amêndoa
-4-5 | castanho | preto
-6-7 | preto | castanho
-8-9 | ruivo | verde
-10 | colorido | colorido
-
-#### característica física
-
-d10 | característica
------|-----
-1 | rosto
-2 | olhos
-3 | nariz
-4 | boca/orelha
-5 | cicatris/tatuagem
-6 | sombrancelha/cabelo/barba
-7 | mão/pé/pele
-8 | braços/pernas/tronco
-9 | voz/fala
-10 | ferimento/falta uma parte do corpo
-
 ### Aparência humana
 
 Role 12d10 para criar um humano. 1 dado para cada característica e 2 dados para uma característica marcante na última coluna
