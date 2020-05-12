@@ -249,13 +249,31 @@ d10 | característica
 1 | rosto
 2 | olhos
 3 | nariz
-4 | boca
-5 | orelha
-6 | sombrancelha/cabelo
-7 | mão
-8 | pé
-9 | cicatris/tatuagem
-10 | voz
+4 | boca/orelha
+5 | cicatris/tatuagem
+6 | sombrancelha/cabelo/barba
+7 | mão/pé/pele
+8 | braços/pernas/tronco
+9 | voz/fala
+10 | ferimento/falta uma parte do corpo
+
+### Aparência humana
+
+Role 12d10 para criar um humano. 1 dado para cada característica e 2 dados para uma característica marcante na última coluna
+
+d10 | género | idade | altura | peso | aparência | tamanho do cabelo | tipo de cabelo | tamanho da barba | cor do cabelo | cor dos olhos | característica marcante
+-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----
+1 | masculino com traços femininos | criança 1-12 | muito baixo | muito magro | muito doente/feio/estranho | careca | liso | sem barba | branco/grizalho | azul | rosto
+2 | masculino | adolescente 13-18 | baixo | magro | sem saúde/feio/estranho | careca | liso | sem barba | loiro | amêndoa | olhos
+3 | masculino | jovem 18-22 | baixo | magro | sem saúde/feio/estranho | curto | cachos soltos | curto | loiro | preto | nariz
+4 | masculino | jovem 18-22 | mediano | mediano | normal | curto | cachos soltos | curto | castanho | preto | boca/orelha
+5 | masculino | jovem 18-22 | mediano | mediano | normal | curto | cachos soltos | curto | castanho | preto | cicatriz/tatuagem
+6 | feminino | adulto 22-40 | mediano | mediano | normal | médio | cachos curtos | médio | preto | castanho | cabelo/sombrancelha/barba
+7 | feminino | adulto 22-40 | mediano | mediano | normal | médio | cachos curtos | médio | preto | castanho | mão/pé/pele
+8 | feminino | adulto 22-40 | alto | a cima do peso | boa saúde/bonito/atlético | médio | cachos curtos | médio | vermelho | castanho | braço/perna/tronco
+9 | feminino | meia idade 40-60 | alto | a cima do peso | boa saúde/bonito/atlético | longo | duro | longa | vermelho | verde | voz/fala
+10 | feminino com traços masculinos | idoso 60+ | muito alto | obeso | muito saudável/lindo/musculoso | longo | duro | longa | uma cor diferente | uma cor diferente | ferimento/falta uma parte do corpo
+
 
 ### Estilo de vida, papel ou profissão
 
