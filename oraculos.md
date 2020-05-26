@@ -190,9 +190,36 @@ d10 | 1-3 | 4-6 | 7-9
 9 | ingênuo | espertalhão | pessimista
 10 | idealista | ignorante | otimista
 
+### Dores
+
+d20 | dor
+-----|-----
+1 | você tem um amor não correspondido/declarado
+2 | você descorda de um relacionamento
+3 | você perdeu algo/alguém
+4 | algo/alguém foi tirado de você
+5 | você se arrepende de algo que você fez/não fez
+6 | você não conseguiu/consegue fazer algo
+7 | você se culpa por algo que aconteceu com alguém/algo importante
+8 | alguém não gosta/quer prejudicar você
+9 | alguém não gosta/quer prejudicar alguém que você gosta
+10 | você não teve/tem algo que todos tiveram/têm
+11 | você tem medo de algo
+12 | as pessoas pensam algo errado/ruim de você
+13 | alguém importante para você está sofrendo/em perigo
+14 | alguém não reconhece seu valor/não te da atensão
+15 | alguém importante para você fez/faz algo que incomoda você/alguém que é importante para você e/ou te desepcionou
+16 | você sabe algo importante como um crime ou injustiça. mas se você falar vai prejudicar você/alguém importante para vocêe/ou alguém inoscente e/ou vai ajudar alguém que você não gosta/que não merece
+17 | você sabe algo como um crime ou injustiça. mas se você falar vai prejudicar algo importante para você
+18 | você tem inveja/recentimento de alguém
+19 | você fez uma promeça que não pode/deve/consegue/quer cumprir e/ou vai te prejudicar
+20 | você deve algo que não consegue pagar
+
 ### Aparência
 
 #### Raça
+
+##### Raças de D&D5
 
 ##### Raças de shadow of the demonlord
 
@@ -203,7 +230,7 @@ d10 | raça | d10 | raça
 8-9 | altómato | 9-10 | changeling - role a raça aparente
 10 | role na coluna ao lado | x | x
 
-### Aparência humana
+#### Aparência humana
 
 Role 12d10 para criar um humano. 1 dado para cada característica e 2 dados para uma característica marcante na última coluna
 
@@ -219,7 +246,6 @@ d10 | género | idade | altura | peso | aparência | tamanho do cabelo | tipo de
 8 | feminino | adulto 22-40 | alto | a cima do peso | boa saúde/bonito/atlético | médio | cachos curtos | médio | vermelho | castanho | braço/perna/tronco
 9 | feminino | meia idade 40-60 | alto | a cima do peso | boa saúde/bonito/atlético | longo | duro | longa | vermelho | verde | voz/fala
 10 | feminino com traços masculinos | idoso 60+ | muito alto | obeso | muito saudável/lindo/musculoso | longo | duro | longa | uma cor diferente | uma cor diferente | ferimento/falta uma parte do corpo
-
 
 ### Estilo de vida, papel ou profissão
 
